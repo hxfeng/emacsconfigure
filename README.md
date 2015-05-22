@@ -1,0 +1,2 @@
+# emacsconfigure
+myemacs configure
